@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+input {
+    padding: 4px;
+    margin: 2px;
+}
+
+button {
+    font-size: 15px;
+}
+
+.logo-convert-my-money {
+    margin: 20px;
+    width: 900px;
+}
+
+.result {
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    background: #fdfdfd;
+}
+
+.back-button-home {
+    margin-top: 10px;
+    text-align: center;
+}
