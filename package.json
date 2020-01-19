@@ -1,6 +1,9 @@
 {
   "name": "convert-my-money",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "engines": {
+    "node": "12.14.1"
+  },
   "description": "Converter meu dinheiro",
   "main": "index.js",
   "scripts": {
